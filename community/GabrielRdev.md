@@ -19,7 +19,10 @@ Possuo experiência de 6 anos na área da Informática, trabalhando como Líder 
 
    
 ## Entre em Contato
-
+<a href="https://www.linkedin.com/in/gabriel-ricardo-2b3984161/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabrielrdev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+GitHub : GabrielRdev
 
 
 
